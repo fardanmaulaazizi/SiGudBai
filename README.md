@@ -1,7 +1,7 @@
 # <p align="center">SiGudBai</p>
 
 <p align="center" >
-    <img width="500" src="/dokumentasi/logo.png" alt="Pasar Cabai Logo">
+    <img width="500" src="/app_screenshot/logo-with-text.png" alt="SiGudBai Logo">
 </p>
 
 ## <p align="center">"Sistem Manajemen Pergudangan Cabai"</p>
@@ -11,7 +11,7 @@
 <p>Sistem manajemen pergudangan cabai adalah platform yang digunakan untuk mencatat informasi tentang penyimpanan cabai yang dikirimkan oleh para petani, yang kemudian akan dikumpulkan dan ditawarkan untuk dijual di pasar online yang sederhana. Sistem ini dirancang untuk memudahkan akses bagi semua orang, memungkinkan mereka untuk dengan mudah mengakses informasi tentang stok cabai di pasar tersebut.</p>
 <div>
 <p>Sistem ini adalah hasil pengembangan kolaborasi antara saya, dosen saya dan dosen fakultas pertanian untuk keperluan penelitian.</p>
-<p>Sistem merupakan update dari sistem [Pasar Cabai](https://github.com/fardanmaulaazizi/Pasar-Cabai) dengan menggunakan teknologi yang lebih baru yaitu <strong>Laravel 11</strong> dan <strong>Laravel Breeze</strong> untuk bagian authentication</p>
+<p>Sistem merupakan update dari sistem <a href="https://github.com/fardanmaulaazizi/Pasar-Cabai">Pasar Cabai</a> dengan menggunakan teknologi yang lebih baru yaitu <strong>Laravel 11</strong> dan <strong>Laravel Breeze</strong> untuk bagian authentication</p>
 
 ## Tampilan Sistem
 
@@ -54,8 +54,8 @@
     php artisan migrate:fresh --seed
     ```
 
-6.  Jalankan Program
-    (Optional) Jalankan program dengan menggunakan composer
+6.  Jalankan Program<br>
+    ((Optional) dengan menggunakan composer)
 
     ```bash
     cd \Pasar-Cabai\laravel\
