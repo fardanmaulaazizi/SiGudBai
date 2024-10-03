@@ -58,6 +58,5 @@
     ((Optional) dengan menggunakan composer)
 
     ```bash
-    cd \Pasar-Cabai\laravel\
     php artisan serve
     ```
